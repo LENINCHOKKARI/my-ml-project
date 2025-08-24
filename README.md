@@ -5,7 +5,7 @@ Complete Machine Learning and Deep Learning project with cloud GPU integration.
 ## 🎯 Features
 
 - **Complete ML Environment**: Python 3.10, PyTorch, TensorFlow, Scikit-learn
-- **Cloud GPU Ready**: Templates for Google Colab, Kaggle, AWS SageMaker
+- **4 FREE GPU Platforms**: GitHub Codespaces, Google Colab, Kaggle, AWS SageMaker
 - **Organized Structure**: Data, notebooks, models, API deployment
 - **Docker Support**: Ready for cloud deployment
 
@@ -18,10 +18,13 @@ jupyter lab
 # Select "ML Environment (Python 3.10)" kernel
 ```
 
-### Cloud GPU Training
-- **Google Colab**: Upload `notebooks/cloud_templates/google_colab_template.ipynb`
-- **Kaggle**: Upload `notebooks/cloud_templates/kaggle_template.ipynb`
-- **AWS SageMaker**: Upload `notebooks/cloud_templates/aws_sagemaker_template.ipynb`
+### 🔥 FREE GPU Training (500+ hours/month!)
+- **🐙 GitHub Codespaces**: Click **Code** → **Codespaces** → **Create** (VS Code + GPU!)
+- **🔥 Google Colab**: Upload `notebooks/cloud_templates/google_colab_template.ipynb`
+- **🏆 Kaggle**: Upload `notebooks/cloud_templates/kaggle_template.ipynb` (30+ hrs/week)
+- **☁️ AWS SageMaker**: Upload `notebooks/cloud_templates/aws_sagemaker_template.ipynb`
+
+📖 **See [FREE_GPU_PLATFORMS.md](FREE_GPU_PLATFORMS.md) for complete guide**
 
 ## 📁 Project Structure
 ```
