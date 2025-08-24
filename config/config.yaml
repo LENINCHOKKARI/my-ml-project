@@ -1,0 +1,15 @@
+# Project Configuration
+project:
+  name: my_ml_project
+  version: "0.1.0"
+
+data:
+  raw_path: "data/raw"
+  processed_path: "data/processed"
+  
+model:
+  save_path: "models"
+  
+api:
+  host: "0.0.0.0"
+  port: 8000
